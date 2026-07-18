@@ -1,0 +1,7 @@
+{
+  "data": {
+    "workouts": [
+      {"id":"example-workout-1","workoutActivityType":"outdoor_walk","name":"Outdoor Walk","start":"2026-01-01T09:00:00+00:00","end":"2026-01-01T10:15:00+00:00","duration":4500,"distance":{"qty":6.4,"unit":"km"},"activeEnergyBurned":{"qty":1450,"unit":"kJ"},"heartRate":{"Avg":118,"Min":82,"Max":154},"elevationUp":210,"isIndoor":false}
+    ]
+  }
+}

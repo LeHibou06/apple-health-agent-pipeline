@@ -1,0 +1,10 @@
+{
+  "data": {
+    "metrics": [
+      {"name":"step_count","units":"count","data":[{"date":"2026-01-01T08:00:00+00:00","qty":1200,"source":"Phone"},{"date":"2026-01-01T18:00:00+00:00","qty":3400,"source":"Watch"}]},
+      {"name":"heart_rate_variability","units":"ms","data":[{"date":"2026-01-01T07:00:00+00:00","qty":42.5,"source":"Watch"}]},
+      {"name":"weight_body_mass","units":"kg","data":[{"date":"2026-01-01T07:30:00+00:00","qty":75.2,"source":"Scale"}]},
+      {"name":"sleep_analysis","data":[{"startDate":"2025-12-31T23:30:00+00:00","endDate":"2026-01-01T01:00:00+00:00","value":"core","source":"Watch"},{"startDate":"2026-01-01T01:00:00+00:00","endDate":"2026-01-01T01:45:00+00:00","value":"deep","source":"Watch"},{"startDate":"2026-01-01T01:45:00+00:00","endDate":"2026-01-01T02:15:00+00:00","value":"awake","source":"Watch"},{"startDate":"2026-01-01T02:15:00+00:00","endDate":"2026-01-01T06:30:00+00:00","value":"rem","source":"Watch"}]}
+    ]
+  }
+}

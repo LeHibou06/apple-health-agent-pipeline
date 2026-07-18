@@ -1,0 +1,28 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Health data
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+data/*
+!data/.gitkeep
+backups/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime
+*.log
+*.pid

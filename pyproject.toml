@@ -1,0 +1,14 @@
+[project]
+name = "apple-health-agent-pipeline"
+version = "0.1.0"
+description = "Self-hosted Apple Health export, normalization, and read-only agent access pipeline"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Contributors" }]
+keywords = ["apple-health", "healthkit", "sqlite", "self-hosted", "ai-agent"]
+
+[project.urls]
+Repository = "https://github.com/your-name/apple-health-agent-pipeline"
+
+[tool.ruff]
+line-length = 100
